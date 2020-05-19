@@ -1,0 +1,4 @@
+SpeechRecognition
+pyAudio
+
+// you can install all requirements by using sudo pip install -r requrements.txt
